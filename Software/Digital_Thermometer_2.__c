@@ -1,0 +1,22 @@
+[Settings]
+Target=PIC18F13K22
+Active Compiler=BoostC
+Active Directory=C:\Documents and Settings\Administrateur\Mes documents\Digital_Thermometer_2\Software\
+Active Config=Release
+ClockRate=1000000
+Last Ext=c
+Profiling=0
+Snapshot=0
+[Files]
+Count=7
+File0=Main.c
+File1=Processor.c
+File2=Processor.h
+File3=Screen.c
+File4=Screen.h
+File5=Temperature.c
+File6=Temperature.h
+[Watch]
+Count=0
+[Watchpoint]
+Count=0

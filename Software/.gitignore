@@ -1,0 +1,9 @@
+*.asm
+*.cof
+*.map
+*.obj
+*.brws
+*.stat
+*.casm
+*.lst
+*.tree
